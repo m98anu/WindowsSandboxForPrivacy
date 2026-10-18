@@ -1,7 +1,4 @@
 # WindowsSandboxForPrivacy
-A plug and play set for having a Windows Sandbox instance with auto installed programs and configuration presets
-
-# Secure-Leaned-Workstation-Sandbox
 
 An automated, lightweight, and hardware-accelerated Windows Sandbox environment optimized for privacy, high-performance multimedia streaming, and zero-persistence workspaces. 
 
@@ -146,5 +143,7 @@ To maintain extreme snappiness, running debloat tools or system configurations m
 <img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/3acb1a37-ea42-47f3-bc77-4941decf384b" />
 
 
-## 🤝 Contributing & Auditing
-Feel free to fork this project layout structure to adapt it for specialized testing toolsets (e.g., malware analysis sandboxes, sterile development nodes, or alternate communications wrappers). Everything runs locally and transparently.
+## 🤝 Contributing, Auditing & To-Dos
+Feel free to fork this project layout structure to adapt it for specialized testing toolsets (e.g., malware analysis sandboxes, sterile development nodes, or alternate communications wrappers).
+*  Ability to automatically fetch a configuration preset from the Chris Titus tooling (i. e. Standard or Advanced)
+*  Further automation for directly giving you fake-persistence -> turn on with sessions already logged in
